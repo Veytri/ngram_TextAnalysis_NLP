@@ -10,12 +10,17 @@ Sentiment Classification: Classifies text into negative sentiments based on the 
 Dataset: A sample dataset is included for demonstration purposes. The dataset is extracted from [Kaggle](https://drive.google.com/uc?id=1iKVted6TqDRk6cYnP4vuQ-Gix2KPASkO). In this dataset, it is classified into cyberbullying and not cyberbullying tweets in separate columns. This eases the process of sentiment analysis using the n-gram analysis (unigram, bigram and trigram)
 
 ## Library Requirements
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import nltk
-import spacy
+1. import pandas as pd
+
+2. import numpy as np
+
+3. import matplotlib.pyplot as plt
+
+4. import nltk
+
+5. import spacy
 
 # Contibutors
   1. Veytri
+     
   2. Eileen
