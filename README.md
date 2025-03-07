@@ -19,8 +19,3 @@ Dataset: A sample dataset is included for demonstration purposes. The dataset is
 4. import nltk
 
 5. import spacy
-
-# Contibutors
-  1. Veytri
-     
-  2. Eileen
