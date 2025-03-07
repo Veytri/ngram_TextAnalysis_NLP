@@ -1,4 +1,4 @@
-# N-Gram Sentiment Analysis
+# N-Gram Twitter Sentiment Analysis
 This project aims to perform sentiment analysis using N-gram models in Natural Language Processing (NLP). It utilizes various N-gram techniques to analyze the sentiment of text data.
 
 ## Overview
